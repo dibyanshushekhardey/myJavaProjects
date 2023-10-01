@@ -1,0 +1,4 @@
+- I have used private keyword before the methods declaration so that the 
+- keyword can be accessed within the class
+- I have created a method question that takes the questions and the options from the question 
+- https://www.w3schools.com/java/ref_keyword_private.asp#:~:text=Definition%20and%20Usage,accessible%20within%20the%20declared%20class.
