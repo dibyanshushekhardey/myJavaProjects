@@ -1,0 +1,8 @@
+-- Problems encountered
+
+-- == does not give the result, choose.equals("2"), gives result
+-- it is because the == is an operator that means it checks whether the two object point to same memory location, 
+-- where as .equals is a method that checks whether the values of the content are same or not
+
+-- here is a link
+https://www.geeksforgeeks.org/difference-between-and-equals-method-in-java/
