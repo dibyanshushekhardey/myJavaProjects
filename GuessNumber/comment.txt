@@ -1,0 +1,5 @@
+-- problem encountered
+-- do not use else if statement at the end
+-- called the function in the main
+-- the function is declared in the class
+-- https://www.geeksforgeeks.org/number-guessing-game-in-java/ 
